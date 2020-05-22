@@ -1,2 +1,2 @@
-# ppdb-new-version
+# Sistem Pendaftaran Peserta Didik Baru
 Versi Terbaru PPDB
