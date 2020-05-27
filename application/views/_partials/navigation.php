@@ -8,7 +8,7 @@
         <!-- Logo -->
         <li class="logo-sn waves-effect py-3">
           <div class="text-center">
-            <a href="#" class="pl-0"><img src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png"></a>
+            <a target="_blank" href="<?= base_url() ?>/assets/html/dashboards/v-1.html" class="pl-0"><img src="https://mdbootstrap.com/img/logo/mdb-transaprent-noshadows.png"></a>
           </div>
         </li>
 
